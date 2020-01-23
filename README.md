@@ -8,7 +8,7 @@ $ git clone https://github.com/7enTropy7/Artix_7.git
 
 ## Directory Contents
 ```bash
-$ cd Artix_7
+$ cd Artix_7/
 $ tree
 .
 ├── Binary_Gray
