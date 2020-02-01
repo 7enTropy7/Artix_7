@@ -52,12 +52,14 @@ $ tree
 ├── Shift_Register
 │   ├── shift_reg_test.v
 │   └── shift_reg.v
-└── Universal_Shift_Register
-    ├── usr_test.v
-    └── usr.v
+├── Universal_Shift_Register
+│   ├── usr_test.v
+│   └── usr.v
+└── Wallace_Tree_Multiplier
+    ├── wallace_tree_test.v
+    └── wallace_tree.v
 
-12 directories, 32 files
-
+13 directories, 34 files
 ```
 ## Board
 > Nexys4 DDR Artix-7 FPGA Board
